@@ -341,12 +341,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - **Issues**: [GitHub Issues](https://github.com/yourusername/triage-ai/issues)
 - **Discussions**: [GitHub Discussions](https://github.com/yourusername/triage-ai/discussions)
 
-## 🏆 Awards & Recognition
-
-- **Bay2Bay Hacks 2025** - Healthcare Innovation Track Winner
-- **AI for Good Challenge** - Finalist
-- **Digital Health Awards** - Best Triage Solution
-
 ---
 
 **Made with ❤️ for better healthcare access**
